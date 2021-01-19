@@ -134,7 +134,7 @@ h1 {
 }
   .icons {
     justify-content: flex-end;
-      margin: 3rem auto 2rem;
+     margin: 3rem 50% 2rem;
 }
 .fab {
   font-size: 20px;
